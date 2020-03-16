@@ -36,7 +36,15 @@
     		{% else %}
     			../zh-TW/index.html
     		{% endif %}	
-    	" class="lang">[正體中文版]</a>
+    	" class="lang">[正體中文版]</a>&nbsp;|&nbsp;
+    	<a href="
+    		{% assign CNurl = page.name | replace: '.md', '.html' | prepend: '/ja-JP/' %}
+    		{% if urlList contains CNurl %}
+    			{{ page.name | prepend: '../ja-JP/' | replace: '.md', '.html' }}
+    		{% else %}
+    			../ja-JP/index.html
+    		{% endif %}	
+    	" class="lang">[日本語]</a>
     </div>
     <div class="ebook">Télécharger en format <a href="/ebook/design-with-fontforge_fr-FR.epub" class="ebook" rel="nofollow">[ePUB]</a>&nbsp;|&nbsp;<a href="/ebook/design-with-fontforge_fr-FR.mobi" class="ebook" rel="nofollow">[MOBI]</a>&nbsp;|&nbsp;<a href="/ebook/design-with-fontforge_fr-FR.pdf" class="ebook" rel="nofollow">[PDF]</a></div>
     <a href="https://github.com/fontforge/designwithfontforge.com" class="button" target="_blank"><small>Voir le projet sur</small>GitHub</a>

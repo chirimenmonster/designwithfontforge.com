@@ -29,7 +29,15 @@
     		{% else %}
     			../zh-TW/index.html
     		{% endif %}	
-    	" class="lang">[正體中文版]</a>
+    	" class="lang">[正體中文版]</a>&nbsp;|&nbsp;
+    	<a href="
+    		{% assign CNurl = page.name | replace: '.md', '.html' | prepend: '/ja-JP/' %}
+    		{% if urlList contains CNurl %}
+    			{{ page.name | prepend: '../ja-JP/' | replace: '.md', '.html' }}
+    		{% else %}
+    			../ja-JP/index.html
+    		{% endif %}	
+    	" class="lang">[日本語]</a>
     </div>
     <div class="ebook">下载 <a href="/ebook/design-with-fontforge_zh-CN.epub" class="ebook" rel="nofollow"><b>[ePUB]</b></a>&nbsp;|&nbsp;<a href="/ebook/design-with-fontforge_zh-CN.mobi" class="ebook" rel="nofollow"><b>[MOBI]</b></a>&nbsp;|&nbsp;<a href="/ebook/design-with-fontforge_zh-CN.pdf" class="ebook" rel="nofollow"><b>[PDF]</b></a></div>
     <a href="https://github.com/fontforge/designwithfontforge.com" class="button" target="_blank"><small>View project on</small>GitHub</a>

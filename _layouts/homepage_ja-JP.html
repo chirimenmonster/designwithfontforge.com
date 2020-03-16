@@ -1,0 +1,27 @@
+{% include html-start.html %}
+
+	{% include header-masthead_ja-JP.html %}
+
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+
+          <p>{{ content }}</p>
+        </section>
+
+        <aside id="sidebar">
+<!--          <a href="" class="button">
+            <small>Download book as</small>
+            PDF
+          </a> -->
+          <p>本書籍はフリーウェアの文化に則って <a href="//github.com/fontforge/designwithfontforge.com/" target="_blank">Github 上で運営</a>されています。 修正意見その他を歓迎します。</p>
+          <p><a class="editthispage" href="https://github.com/fontforge/designwithfontforge.com/blob/gh-pages{{ page.url | replace: '.html', '.md' }}" target="_blank">本ページの編集</a> (<a href="https://github.com/fontforge/designwithfontforge.com">方法について</a>)</p></p>
+        </aside>
+
+      </div>
+    </div>
+
+{% include footer_ja-JP.html %}
+
+{% include html-end.html %}
