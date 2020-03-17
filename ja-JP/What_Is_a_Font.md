@@ -1,24 +1,45 @@
 ---
 published: true
+layout: bookpage_ja-JP
+weight: 3
+category: Before You Begin
+title: フォントとは何か
+---
+<!--
+published: true
 layout: bookpage
 weight: 3
 category: Before You Begin
 title: What Is A Font?
----
+-->
 
+<!--
 What makes typefaces different from hand-writing, calligraphy, lettering, and logos?
+-->
+書体というものは、手書き、カリグラフィー、レタリング、ロゴと比べて何が違うのでしょうか？
 
+<!--
 The single biggest issue that makes type design different is the need for every glyph in the
 typeface to work with every other glyph. This often means that the design and spacing of each part
 of the typeface ends up being a series of careful compromises. These compromises mean that we can
 best think about typeface design as the creation of a wonderful collection of letters but not as a
 collection of wonderful letters. In other words we must think about the group and how it will
 perform together and prioritize this over any question of what is wonderful in a single letter.
+-->
+書体デザインが他のものと最も大きく違う箇所は、書体に含まれるすべてのグリフは他のすべてのグリフと連携する必要があることです。
+それは多くの場合、書体の各部のデザインと間隔は、慎重に妥協を重ねてきた結果として生み出されたものであることを意味します。
+こうした妥協が意味することは、書体デザインとは、単に美しい文字を集めたというものではなく、文字が美しく集まったものを創造することである、という解釈がふさわしいということです。
+別の言い方をするなら、私たちは文字の集まりというものを考えなければならず、単一の文字について何が美しいかという課題よりも、文字の集まりが互いにどのように振る舞うかということを優先する必要があります。
 
+<!--
 This need to prioritize with the system rather than with any single part also leads to a need to
 analyse our design process on the level of the system. Characteristics which span letters become the
 things we want to focus on, particularly at the beginning of the design process.
+-->
+個々の部品よりもシステム全体が優先されるため、システムのレベルでデザインの工程を分析する必要が生じます。
+複数の文字にまたがる特性は、特にデザイン工程の初期段階で、私たちが注目するべき項目になります。
 
+<!--
 The other oddity in type design is that, to a very large extent, the forms we are designing are
 already significantly established. Our task as type designers is not so much to create an utterly
 new form but rather to create a new version of an existing form. This can perplex new type
@@ -27,16 +48,35 @@ is a tricky thing. Often designers get stuck in letter-specific thinking. This m
 avoided if you realize from the start that what is most meaningful in a typeface are the parts of it
 that repeat the most. Typeface design is not just about designing the characteristics applied to the
 common forms we all recognize, but also to the forms that occur most often.
+-->
+書体デザインには他にも変わった点があり、非常に多くの場合で、私たちがデザインしようとしている形状というものが、すでにかなり確立したものであるということです。
+書体デザイナーとしての私たちがすべきことは、まったく新しい形状を作成することではなく、すでにある形状の新しいバージョンを作成することです。
+このことははじめたばかりの書体デザイナーを困惑させるかもしれません。
+すばらしくはあるけれども読者を置いてきぼりにしないような、ちょうどよい変更量を見つけることは巧妙な技術です。
+しばしば、デザイナーは単独の文字に意識を奪われてしまいます。
+書体で最も意味があるものは最も頻繁に繰り返される部分だということに最初に気づいておけば、この間違いは簡単に回避できます。
+書体デザインとは、単に私たちの誰もが認識している一般的な形状に適用される特性をデザインするのではなく、最も頻繁に発生する形状に適用される特性をデザインすることです。
 
+<!--
 It is also useful to recognize that these characteristics not only help to create a font’s voice or
 atmosphere, but also to determine what the font will or will not be useful for, and sometimes to
 determine the technological contexts for which a font is suitable.
+-->
+これらの特性は、フォントの声や雰囲気を作り出すのに役立つだけでなく、フォントが何に役立つか、または役に立たないかを判断するのに役立ち、ときにはフォントが適している技術的な状況を判断するのにも役立ちます。
 
+<!--
 It may seem intimidating or excessively abstract to think about the design of a font in this way.
 However, getting used to these ideas is the key to a faster, more effective, and satisfying type
 design process.
+-->
+このようにフォントのデザインを考えることは、威圧的に見えたり、過度に抽象的に見えるかもしれません。
+ですが、こうした考えに慣れておくことは、書体デザインの工程をより速く、より効果的に、かつ満足いくものとするための鍵となります。
 
+<!--
 Let’s begin by identifying the main systemic characteristics in type design.
+-->
+それでは、書体デザインにおける主要なシステム特性について見ていきましょう。
+
 
 ### Construction
 

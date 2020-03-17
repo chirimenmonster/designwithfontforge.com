@@ -21,9 +21,9 @@ handy tool with which to begin, FontForge is not just for beginners. It has an a
 and is rapidly improving at the time this book is being written.
 -->
 この本は、誰でも書体デザインの工程を利用できるようにするために作成されました。
-書体のデザインは視覚的に複雑で、非常に技術的ですが、[FontForge]のような無料のツールが利用できるようになったため、これまでよりも簡単に書体の作成を始めることができます。
+書体のデザインは視覚的に複雑で、非常に技術的ですが、[FontForge] のような無料のツールが利用できるようになったため、これまでよりも簡単に書体の作成を始めることができます。
 始めるのには手頃なツールといえども、FontForgeは初心者向けではありません。
-FontForgeは高度なツールセットであり、この本の執筆時点で急速に改善されています。
+FontForge は高度なツールセットであり、この本の執筆時点で急速に改善されています。
 
 <!--
 This book aims to offer technical help and general insight into planning a type design project, and
@@ -36,13 +36,13 @@ also offers advice about how to make your workflow more efficient.
 If you wish to help us, you can contribute to making FontForge better by giving feedback or even by
 contributing content and fixes [on GitHub].  
 -->
-もし、何らかの支援を行いたいのでしたら、フィードバックの送信や、[GitHub][on GitHub]へのコンテンツ提供、バグ修正によって、FontForgeの改善に貢献することができます。
+もし、何らかの支援を行いたいのでしたら、フィードバックの送信や、[GitHub][on GitHub] へのコンテンツ提供、バグ修正によって、FontForge の改善に貢献することができます。
 
 <!--
 If you face any bug in FontForge, search the [issue tracker] on GitHub to see if you hit a known bug
 and what the state of its resolution is. Otherwise, see [here][bug] for bug reporting guidelines.
 -->
-FontForgeのバグを見つけたときは、それが既知のバグかどうか、そして、解決されているかどうかを確認するために、GitHubの[issueトラッカー][issue tracker]を検索してください。
+FontForge のバグを見つけたときは、それが既知のバグかどうか、そして、解決されているかどうかを確認するために、GitHub の [issue トラッカー][issue tracker]を検索してください。
 それが未発見のバグであった場合は、[こちらの][bug]バグ報告ガイドラインをご覧ください。
 
 <!--
