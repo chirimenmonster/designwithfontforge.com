@@ -104,8 +104,8 @@ However, the way strokes end (the ‘terminals’) and the ‘serifs’ (see bel
 of what is meant by ‘construction.’ Construction is the skeleton of the glyph, while rest &mdash;
 width, weight, terminals &mdash; are all parts of the flesh.
 -->
-ただし、ストロークの「終端」と「セリフ」（以下を参照）は、一般に「構造」が指す部分には含まれません。
-構造はグリフの骨格に該当し、残りの部分である幅、ウェイト、終端はグリフの肉付きに該当します。
+ただし、ストロークの終端（「ターミナル」）と「セリフ」（以下を参照）は、一般に「構造」が指す部分には含まれません。
+構造はグリフの骨格に該当し、残りの部分である幅、ウェイト、ターミナルはグリフの肉付きに該当します。
 
 <img src="images/AAA.png" alt>
 
@@ -182,7 +182,7 @@ be used to save space or to fit more text in a smaller space.
 -->
 書体デザインにおける「幅」は、それがどのように感じられるかだけでなく、それが何の役に立つかを変えることになります。
 右側の例は、文章中で使用されているもので、
-左側の例は、人目を引くことを目的としたディスプレイデザインのものです。
+左側の例は、人目を引くことを目的とした展示用デザインのものです。
 文章用の例よりも幅の狭い文字を使用することもでき、スペースを節約したり、より小さなスペースに多くの文章を収めたりするのに使用することができます。
 
 <!--
@@ -258,134 +258,267 @@ the axis is diagonal.
 
 <img src="images/Angle%20of%20contrast.png" alt>
 
+<!--
 ### Weight distribution
+-->
+### ウェイトの配分
 
+<!--
 If your font uses very little to no contrast, you don’t really need to think of it.  
 Most fonts, however, have at least some degree of contrast. In these cases, you have a wide variety
 of options to choose from when it comes to how to distribute the weight in your font.
+-->
+フォントにコントラストがほとんど、またはまったくない場合には、実際に考える必要はありません。  
+ですが、ほとんどのフォントには、少なくともある程度のコントラストがあります。
+こうした場合、フォントのウェイトをどのように配分するかについての幅広い選択の余地があります。
 
+<!--
 #### Vertical
+-->
+#### 垂直
 
 <img src="images/verical1.png" alt>
 
+<!--
 Vertical distribution of weight is very common. The 9 and 8 above are a particularly intense
 example.
+-->
+垂直方向にウェイトを配分するのは、非常に一般的です。
+上の 9 と 8 は特に著しい例です。
 
+<!--
 #### Horizontal
+-->
+#### 水平
 
 <img src="images/horizontal%20weight.png" alt>
 
+<!--
 Horizontal weight distribution is much less common, but is nonetheless seen in many fonts.
+-->
+水平方向にウェイトを配分するのは、それほど一般的ではありませんが、それでも多くのフォントで見られます。
 
+<!--
 #### Bottom-heavy
+-->
+#### ボトムヘビー
 
 <img src="images/2bottomheavy.png" alt>
 
+<!--
 #### Top-heavy
+-->
+#### トップヘビー
 
 <img src="images/2topheavy%20metal.png" alt>
 
+<!--
 #### Irregular
+-->
+#### 変則的
 
 <img src="images/Irregular%20weight.png" alt>
 
+<!--
 ### Stems
+-->
+### ステム
 
 <img src="images/8stems.png" alt>
 
+<!--
 It is easy to assume that your stems will simply be straight and that this isn’t a real concern, but
 both the weight and the shape of your stems are things you can and should make deliberate choices
 about.
+-->
+ステムが単純にまっすぐになっていて、実際には関係ないと仮定するのは簡単ですが、ステムのウェイトと形状の両方ともが選択の対象となっていますし、選択は慎重にするべきです。
 
+<!--
 ### Joins
+-->
+### 接続
 
 <img src="images/7joins.png" alt>
 
+<!--
 ### Bowls
+-->
+### ボウル
 
+<!--
 Note that bowls are the stroke part in the below illustrations and not the black inner forms. The
 inner strokes are referred as “counters”. While designing type, you will often find yourself
 altering your work not because of the shape or width of the stroke but due to the shape and size of
 the counter.
+-->
+ボウルは、下の図のストローク部分であり、内部の黒い図形ではないことに注意してください。
+内側のストロークは「カウンター」と呼ばれます。
+書体をデザインする際、ストロークの形状や幅ではなく、カウンターの形状とサイズを基準として作業を変更することがよくあります。
 
 <img src="images/2bowls.png" alt>
 
+<!--
 ### Terminals
+-->
+### ターミナル
 
+<!--
 Terminals are the end forms of the strokes. They are not same as the serifs. They are often
 perpendicular to the angle of the stroke at its end, or sheared horizontally or vertically. They may
 also reflect the shape of the nib or other mark-making tool that the letter forms evoke.
+-->
+ターミナルは、ストロークの終端の形状です。
+それはセリフと同じではありません。
+多くの場合、ストローク端部の角度に対して垂直になっているか、水平または垂直に切り落とされた形状となっています。
+また、ペン先であったり、文字の形状から連想される他の筆記具の形状を反映している場合もあります。
 
 <img src="images/terminals%20f.png" alt>
 
+<!--
 ### Speed
+-->
+### スピード
 
 <img src="images/6speed_1.png" alt>
 
+<!--
 The ‘n’ on the left seems to be written much faster than the one on the right. Speed is discussed in
 more detail in the chapter [on italics].
+-->
+左側の ‘n’ は、右側の ‘n’ よりもはるかに速く書かれているようです。
+スピードについては、[イタリック体][on italics]の章で詳しく説明します。
 
+<!--
 ### Regularity
+-->
+### 規則性
 
 <img src="images/6regularity.png" alt>
 
+<!--
 The following characteristics are not present in all type designs, however they are variables that
 may be a part of your design. If this is the case, it is worth considering the degree to which they
 will play a role as a variable.
+-->
+以下の特性はすべての書体デザインに存在するわけではありませんが、デザインの一部になりうる変数です。
+その場合には、変数としての役割を果たす程度を考慮する価値があります。
 
+<!--
 ### Flourish
+-->
+### フローリッシュ
 
 <img src="images/5flourish.png" alt>
 
+<!--
 Notice that in the font on top the flourish is more present in the capital letter and the second one
 the flourish is more in the lowercase.
+-->
+上のフォントではフローリッシュが大文字の方に多く存在し、2番目のフォントではフローリッシュが小文字の方に多く存在することに注意してください。
 
+<!--
 ### Serif - to be or not to be
+-->
+### セリフ - 付けるべきか付けざるべきか
 
+<!--
 Serifs are one of the most distinct aspects of a typeface, and often the first classification of
 type is between serif and sans-serif type.
+-->
+セリフは書体の性質のうちで最も明確なものの一つです。
+大抵の場合、書体の最初の分類はセリフ体とサンセリフ体とになります。
 
+<!--
 This choice affects how the end terminals will look like. Serifs can be two sided or one sided. They
 can be perpendicular to stroke or have their own direction (like being always horizontal or
 vertical). Serifs can be with or without brackets. Any serif design is a mix of all of the above
 applied consistently to the type design with some deviations for particular letters, especially the
 ‘S’, ‘C’ and ‘Z’ (e.g. a type with horizontal serifs for all letters will often have s, c and z to
 have vertical serifs).
+-->
+どちらを選んだかが、端末の見え方に影響します。
+セリフは両側にも、片側にも付けることができます。
+ストロークに垂直に付けることも、独自の方向（常に水平または垂直のように）にすることもできます。
+セリフには、ブラケットを付けることも付けないこともできます。
+セリフのデザインは、上記のすべてを書体デザインに一貫して適用したものですが、特定の文字、特に ‘S’, ‘C’, ‘Z’ などでは若干異なります（たとえば、すべての文字に水平セリフを持つ書体であっても、 s, c, z には大抵垂直セリフがあります）。
 
+<!--
 There is a urban legend asserting that serif types are easier to read than sans-serifs &mdash; it is
 [a sole myth](http://asserttrue.blogspot.se/2013/01/the-serif-readability-myth.html), until further
 notice.
+-->
+セリフ体はサンセリフ体より読みやすいという都市伝説がありますが、検証されるまでは単なる[神話](http://asserttrue.blogspot.se/2013/01/the-serif-readability-myth.html)に過ぎません。
 
+<!--
 The form of the serifs are related to the forms of the terminals.
+-->
+セリフの形状は、ターミナルの形状と関連しています。
 
+<!--
 #### Brackets
+-->
+#### ブラケット
 
+<!--
 The corner portions of a serif where it connects to the main stroke are called ‘brackets’. A
 particular design may have them giving a soft feel to the serif ([Times New Roman] is an example) or
 may choose to not have any bracket. Some designs also use brackets only on one side or with
 different proportions on the two sides.
+-->
+主線となるストロークに接続するセリフの角の部分は「ブラケット」と呼ばれます。
+一部のデザインでは、セリフにソフトな感触を与えたり（[Times New Roman]　がその一例です）、ブラケットがないように選択したりする場合があります。
+また別のデザインでは、片側だけにブラケットを付けたり、両側の比率が異なるブラケットを使用します。
 
+<!--
 This is a relatively strong parameter that renders feel to the type &mdash; elegance (smooth or
 large brackets of [Times New Roman]) or chunky crisp (absent brackets of [Arvo]).
+-->
+これは、書体に優雅さ（なめらかなブラケットや [Times New Roman] の大きなブラケット）や、ガッチリした感じ（[Arvo] のブラケットなし）のような雰囲気を与えることができるわりと強力な要素です。
 
+<!--
 #### Slab-serifs
+-->
+#### スラブセリフ
 
+<!--
 Also called mechanistic or Egyptian type, slabs are thick, block-like serifs. Slab serifs don’t use
 brackets. Generally speaking, type design with such serifs are seen to have less contrast in their
 glyphs &mdash; [Rockwell], [Courier] or [American typewriter] reflect that.
+-->
+スラブは mechanistic またはエジプト体とも呼ばれ、厚いブロック状のセリフです。
+スラブセリフはブラケットを使用しません。
+一般的に言えば、このようなセリフを使用した書体デザインは、グリフのコントラストが低いように見えます。
+[Rockwell], [Courier], [American typewriter] はそのようになっています。
 
+<!--
 It may be safe to assume that slab serifs have been used to add some ornament or rhythm to an
 otherwise no-contrast type design. But this is not an absolute rule.
+-->
+スラブセリフは、コントラストのない書体デザインに装飾やリズムを追加するために使用されたと解釈しても差し支えありません。
+しかし、必ずしもそうではありません。
 
+<!--
 #### Serif Terminals
+-->
+#### セリフターミナル
 
+<!--
 Just like letter terminals, the end shape of the serifs themselves contribute to the feel of the
 type &mdash; either soft or chunky. Serif terminals can be soft and rounded ([Courier]) or blunt and
 angular ([Rockwell]).
+-->
+レターターミナルのように、セリフ自体の端部の形状は、ソフトまたはチャンキーのいずれかのタイプの感触に寄与します。
+セリフターミナルは、柔らかくて丸い（[Courier]）または鈍くて角のある（[Rockwell]）ことができます。
 
+<!--
 ### Decoration
+-->
+### 装飾
 
+<!--
 The letter forms themselves may be decorated inside, or they may be extended with superfluous decorative forms - or both!
+-->
+文字の形状自体が内部で装飾されている場合もあれば、余分な装飾で拡張されている場合もあります - またはその両方です！
 
 <img src="images/decoration-1.jpg" alt>
 
@@ -393,7 +526,10 @@ The letter forms themselves may be decorated inside, or they may be extended wit
 
 <img src="images/decoration-3.jpg" alt>
 
+<!--
 ### Dimension
+-->
+### 寸法
 
 <img src="images/3dimention.png" alt>
 
