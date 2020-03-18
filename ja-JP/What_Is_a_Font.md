@@ -3,7 +3,7 @@ published: true
 layout: bookpage_ja-JP
 weight: 3
 category: Before You Begin
-title: フォントとは何か
+title: フォントとは
 ---
 <!--
 published: true
@@ -69,7 +69,7 @@ It may seem intimidating or excessively abstract to think about the design of a 
 However, getting used to these ideas is the key to a faster, more effective, and satisfying type
 design process.
 -->
-このようにフォントのデザインを考えることは、威圧的に見えたり、過度に抽象的に見えるかもしれません。
+このようにフォントのデザインを考えることは、押し付けがましく感じたり、抽象的に過ぎるように思えるかもしれません。
 ですが、こうした考えに慣れておくことは、書体デザインの工程をより速く、より効果的に、かつ満足いくものとするための鍵となります。
 
 <!--
@@ -78,96 +78,183 @@ Let’s begin by identifying the main systemic characteristics in type design.
 それでは、書体デザインにおける主要なシステム特性について見ていきましょう。
 
 
+<!--
 ### Construction
+-->
+### 構造
 
 <img src="images/Construction2.png" alt>
 
+<!--
 Construction refers to the structure of the underlying strokes that form a particular glyph. Perhaps
 you can imagine the glyph’s skeleton. The kind of construction to use is arguably one of the most
 important questions to think about, because the construction affects so many of the remaining
 choices, particularly if your design is going to feel somewhat familiar to readers. In the example 
 above, the white line inside the letters indicate the approximate construction suggested by the shape 
 of the letters themselves.
+-->
+「構造」とは、個々のグリフを形成する基本的なストロークの構造を指します。
+おそらく、グリフの骨格が想像できるのではないかと思います。
+どのような構造を使用するかを考えることは、最も重要なことの一つです.
+なぜなら、使用した構造は残りの選択肢の多くに、あなたのデザインが読者にとってある程度馴染みがあるような場合は特に、影響を与えるためです。
+上の例では、文字の中の白い線が、文字そのものの形状から推測されるおおよその構造を示しています。
 
+<!--
 However, the way strokes end (the ‘terminals’) and the ‘serifs’ (see below) are generally not part
 of what is meant by ‘construction.’ Construction is the skeleton of the glyph, while rest &mdash;
 width, weight, terminals &mdash; are all parts of the flesh.
+-->
+ただし、ストロークの「終端」と「セリフ」（以下を参照）は、一般に「構造」が指す部分には含まれません。
+構造はグリフの骨格に該当し、残りの部分である幅、ウェイト、終端はグリフの肉付きに該当します。
 
 <img src="images/AAA.png" alt>
 
+<!--
 ### Proportion of X-height to Cap-height
+-->
+### エックスハイトとキャップハイトの比率
 
 <img src="images/Prop.png" alt>
 
+<!--
 The letters on the left come from [Playfair Display], which has a large x-height relative to its
 cap-height. The letters on the right are from [EB Garamond], which has a smaller x-height. In the
 sample above, the size of the H has been adjusted so that they match.
+-->
+左の2つの文字は [Playfair Display] で、キャップハイト（cap-height, 大文字の高さ）に対して大きなエックスハイト（x-height, 小文字のxの高さ）が設定されています。
+右の2つの文字は [EB Garamond] で、小さなエックスハイトが設定されています。
+上の例では、H のサイズが一致するように調整されています。
 
+<!--
 ### Ascender Height
+-->
+### アセンダの高さ
 
 <img src="images/Ascender%20height.png" alt>
 
+<!--
 In the example above, the x-heights have been matched in order to illustrate the relative difference
 in ascender heights.
+-->
+上の例では、アセンダの高さの相対的な違いを示すために、エックスハイトを一致させています。
 
+<!--
 Ascenders usually exceed the cap-height by at least a little, especially in text designs. In some
 cases, however, they can match or even be lower than the cap-height. Longer ascenders can add
 elegance to the look of a typeface. They often go with smaller x-height.
+-->
+アセンダは通常、特にテキストデザインにおいては、キャップハイトよりも少し大きくなります。
+ただし、場合によっては、キャップハイトの高さと一致することもあります。
+長いアセンダは、書体の外観に優雅さを加えることになるでしょう。
+そうした場合は大抵、エックスハイトは小さくなります。
 
+<!--
 ### Descender depth
+-->
+### ディセンダの深さ
 
 <img src="images/Descender%20depth.png" alt>
 
+<!--
 Like ascenders, descenders that are long can feel elegant. 
+-->
+アセンダと同じように、長いディセンダには優雅さが感じられます。
 
+<!--
 Taken together, long ascenders and descenders can become difficult to manage. If the typeface will
 be used with small line heights, the elongation means letters can collide across rows of text.
+-->
+長いアセンダとディセンダは管理が難しくなる可能性があります。
+小さな行間で書体を使用する場合、上下に伸びが生じるということは文字がテキストの行と干渉するかもしれないということです。
 
+<!--
 ## Width
+-->
+## 幅
 
 <img src="images/width.png" alt>
 
+<!--
 The width of a type design will alter not just how it feels but also what it is useful for. The
 example on the right is from a text face. The example on the left is from a display design meant to
 be eye-catching. Letters that are more narrow than the text face example are also possible and can
 be used to save space or to fit more text in a smaller space.
+-->
+書体デザインにおける「幅」は、それがどのように感じられるかだけでなく、それが何の役に立つかを変えることになります。
+右側の例は、文章中で使用されているもので、
+左側の例は、人目を引くことを目的としたディスプレイデザインのものです。
+文章用の例よりも幅の狭い文字を使用することもでき、スペースを節約したり、より小さなスペースに多くの文章を収めたりするのに使用することができます。
 
+<!--
 ### Width regularity versus variability
+-->
+### 幅の規則性と変動性
 
+<!--
 The letters in the top row of this example show a greater variety of width than do the letters in
 the bottom row.
+-->
+この例で、上の行の文字は、下の行の文字よりも各文字の幅の変動が大きいことを示しています。
 
 <img src="images/Width%20regularity.png" alt>
 
+<!--
 ### Weight
+-->
+### ウェイト
 
 <img src="images/Weight.png" alt>
 
+<!--
 ### Slant
+-->
+### スラント
 
 <img src="images/Slant.png" alt>
 
+<!--
 ### Contrast
+-->
+### コントラスト
 
+<!--
 Contrast refers to how much variation in stroke width is found within a glyph. Notice in the below
 two ‘O’ glyphs that the one on the left has much greater variability in line thickness between the top
 and sides of the glyph. Both glyphs have some contrast, but the one on the left has much more than
 the one on the right.
+-->
+コントラストとは、グリフ内でのストローク幅の変動がどれだけあるかを示すものです。
+下の2つの ‘O' のグリフに着目すると、左側のグリフの方が、上部と側面の線における太さの変化がはるかに大きいことに気づくでしょう。
+両者のグリフにはある程度のコントラストがありますが、左側のグリフには右側のグリフよりもずっと強いコントラストが設定されています。
 
 <img src="images/Contrast.png" alt>
 
+<!--
 Type with consistent weight (stroke width) in its letterforms or no visible contrast produces a
 sheer distinction from contrasted type. Like the choice between serifs or sans-serifs, contrast is
 an early choice of type design. It is interesting to note that ‘slab’ serif designs generally use
 consistent stroke width in their letters, and that the design of slab serifs is not merely about the
 serif, as it sounds! It must be remembered that the rules of perception apply (see [“Trusting Your
 Eyes”](Trusting_Your_Eyes.html)) &mdash; contrast is about how the weight looks but not how it measures out to be.
+-->
+一貫性のあるウェイト（ストローク幅）を持った書体や、視覚的なコントラストを持たない書体は、コントラストを持つ書体とはまったく異なります。
+セリフ体とサンセリフ体のどちらにするかという問題と同様に、コントラストは書体デザインの初期段階で選択する問題です。
+「スラブ」セリフ体のデザインでは、通常、文字に一貫したストローク幅が使用されており、スラブセリフ体のデザインは、名前のような単なるセリフ体ではないという興味深い事実があります。
+知覚的な規則が適用されるということに留意してください（[「目を信頼する」](Trusting_Your_Eyes.html)を参照）。
+コントラストはウェイトの見え方を示すものであって、計測した結果ではありません。
 
+<!--
 ### Angle of contrast
+-->
+### コントラストの角度
 
+<!--
 In the below image, we see that the thin parts of the lower case letter ‘o’ shapes are different. In
 the glyph on the left, the thin points lie on a perfectly vertical axis. In the glyph on the right,
 the axis is diagonal.
+-->
+下の画像では、小文字の ‘o’ の細い部分が異なっていることがわかります。
+左のグリフでは、細い箇所は完全に垂直な軸にあり、右のグリフでは、対角の軸にあります。
 
 <img src="images/Angle%20of%20contrast.png" alt>
 
