@@ -16,7 +16,7 @@ title: What Is A Font?
 <!--
 What makes typefaces different from hand-writing, calligraphy, lettering, and logos?
 -->
-書体というものは、手書き、カリグラフィー、レタリング、ロゴと比べて何が違うのでしょうか？
+書体とは、手書き、カリグラフィー、レタリング、ロゴと何が違うのでしょうか？
 
 <!--
 The single biggest issue that makes type design different is the need for every glyph in the
@@ -26,10 +26,10 @@ best think about typeface design as the creation of a wonderful collection of le
 collection of wonderful letters. In other words we must think about the group and how it will
 perform together and prioritize this over any question of what is wonderful in a single letter.
 -->
-書体デザインが他のものと最も大きく違う箇所は、書体に含まれるすべてのグリフは他のすべてのグリフと連携する必要があることです。
-それは多くの場合、書体の各部のデザインと間隔は、慎重に妥協を重ねてきた結果として生み出されたものであることを意味します。
-こうした妥協が意味することは、書体デザインとは、単に美しい文字を集めたというものではなく、文字が美しく集まったものを創造することである、という解釈がふさわしいということです。
-別の言い方をするなら、私たちは文字の集まりというものを考えなければならず、単一の文字について何が美しいかという課題よりも、文字の集まりが互いにどのように振る舞うかということを優先する必要があります。
+書体デザインが他のものと最も大きく違う点は、書体の中のすべてのグリフは他のすべてのグリフと連携する必要があることです。
+それは多くの場合で、書体各部のデザインと間隔が、慎重に妥協を重ねてきた結果、生み出されたものであるということです。
+こうした妥協というのは、書体デザインというものが、単に美しい文字を集めればよいというものでなく、文字が美しく集まったものを創造することだ、と考えるのがふさわしいということです。
+別の言い方をするなら、私たちは文字の集まりというものを考えなければならず、単一の文字について何が美しいかという課題よりも、文字の集まりが互いにどのように振る舞うかということを優先しなければならないということです。
 
 <!--
 This need to prioritize with the system rather than with any single part also leads to a need to
@@ -49,9 +49,9 @@ avoided if you realize from the start that what is most meaningful in a typeface
 that repeat the most. Typeface design is not just about designing the characteristics applied to the
 common forms we all recognize, but also to the forms that occur most often.
 -->
-書体デザインには他にも変わった点があり、非常に多くの場合で、私たちがデザインしようとしている形状というものが、すでにかなり確立したものであるということです。
+書体デザインは他にも変わった点があり、非常に多くの場合で、私たちがデザインしようとしている形状というものが、すでにかなり確立したものであるということです。
 書体デザイナーとしての私たちがすべきことは、まったく新しい形状を作成することではなく、すでにある形状の新しいバージョンを作成することです。
-このことははじめたばかりの書体デザイナーを困惑させるかもしれません。
+このことは、はじめたばかりの書体デザイナーを困惑させるかもしれません。
 すばらしくはあるけれども読者を置いてきぼりにしないような、ちょうどよい変更量を見つけることは巧妙な技術です。
 しばしば、デザイナーは単独の文字に意識を奪われてしまいます。
 書体で最も意味があるものは最も頻繁に繰り返される部分だということに最初に気づいておけば、この間違いは簡単に回避できます。
@@ -121,7 +121,7 @@ The letters on the left come from [Playfair Display], which has a large x-height
 cap-height. The letters on the right are from [EB Garamond], which has a smaller x-height. In the
 sample above, the size of the H has been adjusted so that they match.
 -->
-左の2つの文字は [Playfair Display] で、キャップハイト（cap-height, 大文字の高さ）に対して大きなエックスハイト（x-height, 小文字のxの高さ）が設定されています。
+左の2つの文字は [Playfair Display] で、キャップハイト（cap-height, 大文字の高さ）に対して大きなエックスハイト（x-height, 小文字の x の高さ）が設定されています。
 右の2つの文字は [EB Garamond] で、小さなエックスハイトが設定されています。
 上の例では、H のサイズが一致するように調整されています。
 
@@ -136,7 +136,7 @@ sample above, the size of the H has been adjusted so that they match.
 In the example above, the x-heights have been matched in order to illustrate the relative difference
 in ascender heights.
 -->
-上の例では、アセンダの高さの相対的な違いを示すために、エックスハイトを一致させています。
+上の例では、アセンダの高さの相対的な違いを示すために、エックスハイトを同じにしています。
 
 <!--
 Ascenders usually exceed the cap-height by at least a little, especially in text designs. In some
@@ -194,7 +194,7 @@ be used to save space or to fit more text in a smaller space.
 The letters in the top row of this example show a greater variety of width than do the letters in
 the bottom row.
 -->
-この例で、上の行の文字は、下の行の文字よりも各文字の幅の変動が大きいことを示しています。
+この例で、上の行の文字は、下の行の文字よりも各文字がさまざまな幅を持っていることを示しています。
 
 <img src="images/Width%20regularity.png" alt>
 
@@ -237,10 +237,10 @@ consistent stroke width in their letters, and that the design of slab serifs is 
 serif, as it sounds! It must be remembered that the rules of perception apply (see [“Trusting Your
 Eyes”](Trusting_Your_Eyes.html)) &mdash; contrast is about how the weight looks but not how it measures out to be.
 -->
-一貫性のあるウェイト（ストローク幅）を持った書体や、視覚的なコントラストを持たない書体は、コントラストを持つ書体とはまったく異なります。
+一定のウェイト（ストローク幅）を持った書体や、視覚的なコントラストを持たない書体は、コントラストを持つ書体とはまったく異なります。
 セリフ体とサンセリフ体のどちらにするかという問題と同様に、コントラストは書体デザインの初期段階で選択する問題です。
-「スラブ」セリフ体のデザインでは、通常、文字に一貫したストローク幅が使用されており、スラブセリフ体のデザインは、名前のような単なるセリフ体ではないという興味深い事実があります。
-知覚的な規則が適用されるということに留意してください（[「目を信頼する」](Trusting_Your_Eyes.html)を参照）。
+「スラブ」セリフ体のデザインでは、通常、文字に一定のストローク幅が使用されていて、その名前が示すような単なるセリフ体ではないという興味深い事実があります。
+コントラストでは見た目の印象が優先されるということに留意してください（[「目を信頼する」](Trusting_Your_Eyes.html)を参照）。
 コントラストはウェイトの見え方を示すものであって、計測した結果ではありません。
 
 <!--
@@ -400,8 +400,8 @@ The following characteristics are not present in all type designs, however they 
 may be a part of your design. If this is the case, it is worth considering the degree to which they
 will play a role as a variable.
 -->
-以下の特性はすべての書体デザインに存在するわけではありませんが、デザインの一部になりうる変数です。
-その場合には、変数としての役割を果たす程度を考慮する価値があります。
+以下の特性はすべての書体デザインに存在するわけではありませんが、デザインの一端を担う可変部分です。
+その場合には、可変部分が果たす役割の程度を考えてみる価値があります。
 
 <!--
 ### Flourish
@@ -447,7 +447,7 @@ There is a urban legend asserting that serif types are easier to read than sans-
 [a sole myth](http://asserttrue.blogspot.se/2013/01/the-serif-readability-myth.html), until further
 notice.
 -->
-セリフ体はサンセリフ体より読みやすいという都市伝説がありますが、検証されるまでは単なる[神話](http://asserttrue.blogspot.se/2013/01/the-serif-readability-myth.html)に過ぎません。
+セリフ体はサンセリフ体より読みやすいという都市伝説がありますが、検証されないのであればただの[神話](http://asserttrue.blogspot.se/2013/01/the-serif-readability-myth.html)に過ぎません。
 
 <!--
 The form of the serifs are related to the forms of the terminals.
@@ -465,15 +465,15 @@ particular design may have them giving a soft feel to the serif ([Times New Roma
 may choose to not have any bracket. Some designs also use brackets only on one side or with
 different proportions on the two sides.
 -->
-主線となるストロークに接続するセリフの角の部分は「ブラケット」と呼ばれます。
-一部のデザインでは、セリフにソフトな感触を与えたり（[Times New Roman]　がその一例です）、ブラケットがないように選択したりする場合があります。
-また別のデザインでは、片側だけにブラケットを付けたり、両側の比率が異なるブラケットを使用します。
+主線となるストロークとセリフが接続する隅の部分は「ブラケット」と呼ばれます。
+ブラケットについて、セリフに柔らかい印象を与えるようなデザイン（[Times New Roman] など）が選択されることがありますし、ブラケットのないデザインが選択されることもあります。
+また別のデザインでは、片側だけにブラケットを付けることも、両側の比率が異なるブラケットを使用することもあります。
 
 <!--
 This is a relatively strong parameter that renders feel to the type &mdash; elegance (smooth or
 large brackets of [Times New Roman]) or chunky crisp (absent brackets of [Arvo]).
 -->
-これは、書体に優雅さ（なめらかなブラケットや [Times New Roman] の大きなブラケット）や、ガッチリした感じ（[Arvo] のブラケットなし）のような雰囲気を与えることができるわりと強力な要素です。
+これは、[Times New Roman] のようになめらかで大きなブラケットによって書体に優雅さを与えたり、ブラケットのない [Arvo] のようにガッチリした感じを与えたりすることができる比較的強力な要素です。
 
 <!--
 #### Slab-serifs
@@ -485,17 +485,17 @@ Also called mechanistic or Egyptian type, slabs are thick, block-like serifs. Sl
 brackets. Generally speaking, type design with such serifs are seen to have less contrast in their
 glyphs &mdash; [Rockwell], [Courier] or [American typewriter] reflect that.
 -->
-スラブは mechanistic またはエジプト体とも呼ばれ、厚いブロック状のセリフです。
+スラブセリフ体は機械風書体またはエジプト体とも呼ばれています。
+スラブは厚いブロック状のセリフです。
 スラブセリフはブラケットを使用しません。
-一般的に言えば、このようなセリフを使用した書体デザインは、グリフのコントラストが低いように見えます。
-[Rockwell], [Courier], [American typewriter] はそのようになっています。
+一般的には、このようなセリフを採用した書体は、グリフのコントラストが低く見えます。
+実際、[Rockwell], [Courier], [American typewriter] はそのようになっています。
 
 <!--
 It may be safe to assume that slab serifs have been used to add some ornament or rhythm to an
 otherwise no-contrast type design. But this is not an absolute rule.
 -->
-スラブセリフは、コントラストのない書体デザインに装飾やリズムを追加するために使用されたと解釈しても差し支えありません。
-しかし、必ずしもそうではありません。
+スラブセリフは、コントラストのない書体デザインに装飾やリズムを追加するのに用いられると思っても差し支えありませんが、必ずしもそうではありません。
 
 <!--
 #### Serif Terminals
@@ -507,8 +507,8 @@ Just like letter terminals, the end shape of the serifs themselves contribute to
 type &mdash; either soft or chunky. Serif terminals can be soft and rounded ([Courier]) or blunt and
 angular ([Rockwell]).
 -->
-レターターミナルのように、セリフ自体の端部の形状は、ソフトまたはチャンキーのいずれかのタイプの感触に寄与します。
-セリフターミナルは、柔らかくて丸い（[Courier]）または鈍くて角のある（[Rockwell]）ことができます。
+文字のターミナルのように、セリフそのものの端部の形状も、やわらかな感じにしたりガッチリした感じにしたりなど、書体の印象を作るのに役立ちます。
+セリフターミナルは、[Courier] のようにやわらかくてて丸い感じにすることも、[Rockwell] のようにずっしりと角張った感じにすることもできます。
 
 <!--
 ### Decoration
@@ -518,7 +518,7 @@ angular ([Rockwell]).
 <!--
 The letter forms themselves may be decorated inside, or they may be extended with superfluous decorative forms - or both!
 -->
-文字の形状自体が内部で装飾されている場合もあれば、余分な装飾で拡張されている場合もあります - またはその両方です！
+文字の形そのものを内部的に装飾することもできますし、外側に装飾を付け加えることもできますし、さらにはその両方を行うこともできます！
 
 <img src="images/decoration-1.jpg" alt>
 
