@@ -3,7 +3,7 @@ published: true
 layout: bookpage_ja-JP
 weight: 6
 category: Before You Begin
-title: 目を信頼する
+title: 自身の目を信じる
 ---
 <!--
 published: true
@@ -34,8 +34,8 @@ made:
 As you test the design, you will have to trust your perceptions and design somewhat practically.
 Much of type design requires that you make letters similar and that you repeat forms.
 -->
-フォントをテストするときは、自分の目の感覚とデザインはある程度信頼できるものと考える必要があります。
-大抵の書体デザインでは、それぞれの文字を似たようなものにし、同じような形状を繰り返していくことが求められます。
+フォントをテストするとき、自分の目の感覚とデザインはある程度信頼できるものと考えなければなりません。
+たいていの書体デザインでは、おのおのの文字を似たようなものにし、同じような形を繰り返していくことが求められます。
 
 <!--
 It is tempting to assume that if you measure the parts and the spaces between the glyphs, then you
@@ -43,7 +43,7 @@ will get reliable results. While very useful, this approach has real limitations
 to make adjustments if something looks wrong to you. Furthermore, you should feel confident that
 making changes until it “looks right” is the correct thing to do.
 -->
-グリフの部品や間隔を測定すれば信頼できる結果が得られるのではないかとよく思われます。
+グリフの部品や間隔を測定すれば信頼できる結果が得られるのではないかと思われがちです。
 とても便利ではあるのですが、このようなやり方は実際には限界があります。
 どこかがおかしいと感じたなら、調整したほうがよいでしょう。
 さらに、「正しく見える」まで変更しつづけることが正解であると信じることが必要です。
@@ -53,7 +53,7 @@ The reason this is true is that there are a number of natural optical illusions 
 subject to. These illusions must be accounted for by altering the shapes of letters until they look
 right to you.
 -->
-その理由は、どんな読者にもたくさんの錯視が生じているからです。
+なぜかというと、あらゆる読者において数多くの錯視というものが生じるからです。
 自分にとって正しく見えるようになるまで文字の形を変更し、錯視を打ち消す必要があります。
 
 <!--
@@ -256,9 +256,9 @@ evaluate the relative success or failure of the newest choices you have made &md
 better, to compare two (or three, or more&hellip;) options you are considering.
 -->
 テストはどのようになるでしょうか?
-最初のうちはテストは単純で、どんなデザインを選択したのかについてテストします。
-デザインが完成に近づくにつれて、テストはペースを保ちながら、最新の選択が相対的に成功だったのかまたは失敗だったのかを評価できるようになります。
-さらに良いことに、検討中の 2 つ（または 3 つ以上）の選択肢を比較することができます。
+最初のうちのテストは単純で、どんなデザインを選択したのかについてのテストを行うことになります。
+デザインが完成に近づいてくると、テストのペースは落とさずに、最新の選択が相対的に成功だったのかまたは失敗だったのかを評価できるようになります。
+さらには、検討中の 2 つ（または 3 つ以上）の選択について比較することもできるようになってきます。
 
 <!--
 Sometimes you will find you have to double back and change a design choice you thought was already
@@ -266,10 +266,10 @@ working well. This is normal. Making a font requires balancing many variables, a
 occur. The more you design fonts, the more experience you will have in making these arbitrary
 choices.
 -->
-場合によっては、すでにうまく機能してると考えていたデザインを変更しなければならないことがあります。
-これは正しいことです。
-フォントの作成では多くの変更点のバランスをとる必要があるのですが、しばしば想定外の結果が生じます。
-フォントをデザインしていくと、こういった選択を行う経験を重ねていくことになります。
+ときには、すでにうまく機能してると考えていたデザインを変更しなければならないことがあります。
+このこと自体は正常なことです。
+フォントを作成するには、多くの変更点のバランスをとる必要があるのですが、しばしば想定外の結果が生じます。
+フォントのデザインでは、こういった選択の経験を重ねていくことになります。
 
 <!--
 When nearing the end of the process, if the font is to be used in a simple way, the tests should
@@ -277,8 +277,8 @@ also just stay simple. However, if a font is to be used in many ways or in a wid
 or screen environments, then it should be tested across all that range of situations, which includes
 printing various samples of the font.
 -->
-工程の終盤において、フォントを単純なやり方で使用するのであれば、テストも単純なものにとどめておく必要があります。
-しかし、フォントをさまざまなやり方で使用したり、さまざまな印刷環境や画面環境で使用する場合は、フォントのさまざまなサンプルの印刷を含む、そのすべての状況でテストする必要があります。
+工程の終盤にさしかかったときの話になりますが、フォントの使い方が単純なものであるなら、テストも単純なものにとどめておくべきでしょう。
+しかし、フォントをさまざまなやり方で使用したり、さまざまな印刷環境や画面環境で使用するのであれば、フォントのサンプルを数多く印刷してみるなど、想定するすべての状況でについてテストを行う必要があります。
 
 <!--
 It can save you design time to have a well defined idea of the final use you intend. However, this
@@ -286,9 +286,9 @@ is not always possible and your ideas may evolve. The key thing is to think abou
 cases as completely as you can, then to ensure that your tests keep pace with the questions you are
 asking yourself while designing the font.
 -->
-デザインする時間を節約して、意図した最終用途について明確に定義されたアイデアを得ることができます。
-ただし、これは常に可能とは限らず、あなたのアイデアが進化する可能性があります。
-重要なことは、使用状況をできる限り完全に考えて定義し、フォントをデザインする際に自分が尋ねている質問にテストが対応できるようにすることです。
+意図している最終的な使われ方を綿密に定義すれば、デザインにかける時間を削減することができます。
+しかし、常に可能であるとは限りませんし、当初の考えから発展することがあるかもしれません。
+重要なことは、フォントの使われ方をできる限り完全に考えて定義しておき、フォントをデザインしている間、自分自身に問いかけている質問にテストが対応しつづけられるようにしておくことです。
 
 <!--
 ## Further Reading
