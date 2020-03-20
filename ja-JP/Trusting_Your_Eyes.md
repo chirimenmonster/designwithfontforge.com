@@ -1,32 +1,65 @@
 ---
 published: true
+layout: bookpage_ja-JP
+weight: 6
+category: Before You Begin
+title: 目を信頼する
+---
+<!--
+published: true
 layout: bookpage
 weight: 6
 category: Before You Begin
 title: Trusting Your Eyes
----
+-->
 
+<!--
 Font design is the process of iteratively testing the individual choices that collectively add up to
 a complete design. You will be testing your font to see if the combination of decisions you have
 made:
+-->
+フォントデザインとは、一つ一つの選択肢についてテストを繰り返しながら、デザイン全体を完成させていく工程のことを指します。
+フォントのテストでは、選んだ組み合わせが次のようになっているかを確認します。
 
+<!--
 * Allows you to read the font
 * Makes the font feel right to you
 * Makes the font useful for the the jobs you want the font to be able to do.
+-->
+* 読みやすいかどうか
+* フォントの雰囲気がしっくりくるかどうか
+* そのフォントを使うことで作業がはかどるのかどうか
 
+<!--
 As you test the design, you will have to trust your perceptions and design somewhat practically.
 Much of type design requires that you make letters similar and that you repeat forms.
+-->
+フォントをテストするときは、自分の目の感覚とデザインはある程度信頼できるものと考える必要があります。
+大抵の書体デザインでは、それぞれの文字を似たようなものにし、同じような形状を繰り返していくことが求められます。
 
+<!--
 It is tempting to assume that if you measure the parts and the spaces between the glyphs, then you
 will get reliable results. While very useful, this approach has real limitations. You should expect
 to make adjustments if something looks wrong to you. Furthermore, you should feel confident that
 making changes until it “looks right” is the correct thing to do.
+-->
+グリフの部品や間隔を測定すれば信頼できる結果が得られるのではないかとよく思われます。
+とても便利ではあるのですが、このようなやり方は実際には限界があります。
+どこかがおかしいと感じたなら、調整したほうがよいでしょう。
+さらに、「正しく見える」まで変更しつづけることが正解であると信じることが必要です。
 
+<!--
 The reason this is true is that there are a number of natural optical illusions that all readers are
 subject to. These illusions must be accounted for by altering the shapes of letters until they look
 right to you.
+-->
+その理由は、どんな読者にもたくさんの錯視が生じているからです。
+自分にとって正しく見えるようになるまで文字の形を変更し、錯視を打ち消す必要があります。
 
+<!--
 You can get a feel of where to look and what elements to adjust in these [Type Review Videos](https://vimeo.com/typereview/videos) (External Link)
+-->
+[Type Review 動画](https://vimeo.com/typereview/videos)（外部リンク）を見れば、フォントの調整を行うためにはどこを見て、どの要素を対象とすればよいかを知ることができます。
 
 ## Examples of illusions
 
